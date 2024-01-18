@@ -9,9 +9,9 @@ p
 }
 p::before{
 	content:"Before element";
-	color: red;
+	color: rgb(255,0,0);
 }
 p::after{
 	content:"After element";
-	color: red;
+	color: rgb(255, 0, 0);
 }
